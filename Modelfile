@@ -1,0 +1,2 @@
+FROM /Users/zhouzhaoyu/Desktop/LLM/GGUF/model/Qwen3.5-4B-Q3_K_S.gguf
+SYSTEM "你是一个专业的中文助手。"
