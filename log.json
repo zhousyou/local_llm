@@ -1,0 +1,2937 @@
+{
+  "response": {
+    "id": "resp_0a703e55-fa88-9f5a-b180-6b9e7f2f670d",
+    "created_at": 1782539382.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "",
+    "object": "response",
+    "output": [],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1782539382.0,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": null,
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "queued",
+    "text": null,
+    "top_logprobs": 0,
+    "truncation": null,
+    "usage": null,
+    "user": null,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true,
+    "billing": null
+  },
+  "sequence_number": 0,
+  "type": "response.created"
+}
+{
+  "response": {
+    "id": "resp_0a703e55-fa88-9f5a-b180-6b9e7f2f670d",
+    "created_at": 1782539382.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "",
+    "object": "response",
+    "output": [],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1782539382.0,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": null,
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "in_progress",
+    "text": null,
+    "top_logprobs": 0,
+    "truncation": null,
+    "usage": null,
+    "user": null,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true,
+    "billing": null
+  },
+  "sequence_number": 1,
+  "type": "response.in_progress"
+}
+{
+  "item": {
+    "id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+    "summary": [],
+    "type": "reasoning",
+    "content": null,
+    "encrypted_content": null,
+    "status": null
+  },
+  "output_index": 0,
+  "sequence_number": 2,
+  "type": "response.output_item.added"
+}
+{
+  "delta": "思考",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 3,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "过程：1.",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 4,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "  **分析请求",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 5,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "**：\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 6,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *   主题",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 7,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "：人工智能技术（",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 8,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "AI）。\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 9,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *  ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 10,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " 字数限制：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 11,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "10",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 12,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "0字左右（",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 13,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "简单介绍）。\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 14,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 15,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "   语言：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 16,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "中文。\n\n2",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 17,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ".  **提取",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 18,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "核心概念**：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 19,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n    *  ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 20,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " 什么是AI？",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 21,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "（模拟",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 22,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "人类智能的计算机科学",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 23,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "分支）\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 24,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 25,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "   核心技术/",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 26,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "手段？（机器学习",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 27,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、深度学习、自然",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 28,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "语言处理、计算机",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 29,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "视觉等）",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 30,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n    *  ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 31,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " 应用/作用",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 32,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "？（让机器",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 33,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "具备",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 34,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "学习、推理、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 35,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "感知",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 36,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "和决策能力，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 37,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "赋能各行各业）\n\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 38,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3.  **",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 39,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "草拟文案**",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 40,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "：\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 41,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *   *版本",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 42,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "1*：人工智能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 43,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "（AI）是",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 44,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "计算机科学的重要分支，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 45,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "旨在让",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 46,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "机器模拟人类的认知",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 47,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "功能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 48,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。它通过机器学习",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 49,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、深度学习和大数据",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 50,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "等技术，赋予计算机",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 51,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "感知",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 52,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、理解、学习和",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 53,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "决策的能力。如今",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 54,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，AI已广泛应用于",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 55,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "医疗、交通、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 56,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "金融等领域，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 57,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "正深刻改变着",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 58,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "人类",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 59,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的生产与生活方式，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 60,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "是推动社会智能化发展的",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 61,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "核心动力",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 62,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。（128",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 63,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字）-",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 64,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *超字数了",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 65,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "*\n    *",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 66,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "  ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 67,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *版本2*",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 68,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "：人工智能（AI",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 69,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "）是模拟人类",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 70,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "智能的计算机",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 71,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "技术。它依托",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 72,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "机器学习、深度学习和",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 73,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "大数据，赋予",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 74,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "机器感知、理解",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 75,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、学习与",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 76,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "决策的能力。从",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 77,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "语音助手到自动驾驶",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 78,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，AI",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 79,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "已深度融入医疗",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 80,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、金融等千",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 81,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "行百业，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 82,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "正成为推动社会",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 83,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "生产力跃升和",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 84,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "智能化变革",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 85,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的核心引擎。（1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 86,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 87,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3字） -",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 88,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " *还是稍微多",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 89,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "了一点",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 90,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，需要精简到",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 91,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "100字",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 92,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "以内或刚好1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 93,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "00字",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 94,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "左右。*\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 95,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "    *   *",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 96,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "版本3*：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 97,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "人工智能（AI）",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 98,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "是模拟人类智能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 99,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的计算机技术。",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 100,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "它依托机器学习和",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 101,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "大数据",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 102,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，赋予机器感知",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 103,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、理解、学习与",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 104,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "决策的能力。从",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 105,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "语音助手到自动驾驶",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 106,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，AI已深度",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 107,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "融入千行百",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 108,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "业，正成为",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 109,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "推动社会生产力跃",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 110,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "升与智能化变革",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 111,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的核心引擎",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 112,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。（103",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 113,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字，包含标点",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 114,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "）\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 115,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "    *   *",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 116,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "版本4（严格",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 117,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "控制在",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 118,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "100字",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 119,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "内）*：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 120,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n        人工智能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 121,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "（AI）是",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 122,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "模拟人类智能的",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 123,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "计算机技术。它",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 124,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "依托机器学习与大数据",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 125,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "，赋予",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 126,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "机器感知、学习",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 127,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、推理和决策",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 128,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的能力。",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 129,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "目前，AI已",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 130,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "广泛应用于",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 131,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "医疗、交通、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 132,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "金融等领域，正",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 133,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "深刻",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 134,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "改变人类生活，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 135,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "是推动",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 136,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "社会智能化变革的核心",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 137,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "引擎。（10",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 138,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "5",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 139,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "个字符，纯",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 140,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "汉字88个",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 141,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 142,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "通常字数统计包含",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 143,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "标点，大概1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 144,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "00字",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 145,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "左右非常合适。）",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 146,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n\n4",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 147,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ".  **精确",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 148,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字数统计（版本",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 149,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "4）**：\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 150,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "    人(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 151,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "1)工(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 152,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "2)智(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 153,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3)能(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 154,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "4)（(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 155,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "5)A(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 156,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "6)I(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 157,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "7)）(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 158,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "8)是(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 159,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "9)模(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 160,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "10)拟",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 161,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(11)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 162,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "人(12",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 163,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")类(1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 164,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3)智(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 165,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "14)能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 166,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(15)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 167,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的(16",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 168,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")计(1",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 169,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "7)算(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 170,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "18)机",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 171,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(19)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 172,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "技(20",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 173,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")术(2",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 174,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "1)。(2",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 175,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "2)\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 176,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " 它(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 177,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "23)依",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 178,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(24)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 179,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "托(25",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 180,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")机(2",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 181,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "6)器(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 182,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "27)学",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 183,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(28)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 184,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "习(29",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 185,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")与(3",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 186,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "0)大(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 187,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "31)数",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 188,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(32)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 189,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "据(33",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 190,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")，(34",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 191,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")赋(3",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 192,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "5)予(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 193,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "36)机",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 194,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(37)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 195,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "器(38",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 196,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")感(3",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 197,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "9)知(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 198,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "40)、(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 199,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "41)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 200,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "学(42",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 201,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")习(4",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 202,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3)、(4",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 203,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "4)推(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 204,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "45)理",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 205,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(46)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 206,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "和(47",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 207,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")决(4",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 208,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "8)策(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 209,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "49)的",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 210,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(50)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 211,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "能(51",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 212,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")力(5",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 213,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "2)。(5",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 214,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3)\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 215,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " 目(5",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 216,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "4)前(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 217,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "55)，(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 218,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "56)A",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 219,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(57)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 220,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "I(58",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 221,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")已(5",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 222,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "9)广(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 223,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "60)泛",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 224,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(61)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 225,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "应(62",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 226,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")用(6",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 227,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "3)于(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 228,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "64)医",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 229,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(65)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 230,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "疗(66",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 231,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")、(67",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 232,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")交(6",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 233,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "8)通(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 234,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "69)等",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 235,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(70)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 236,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "领(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 237,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "71)域",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 238,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(72)，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 239,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(73)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 240,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "正(74",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 241,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")深(7",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 242,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "5)刻(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 243,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "76)改",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 244,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(77)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 245,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "变(78",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 246,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")人(7",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 247,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "9)类(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 248,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "80)生",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 249,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(81)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 250,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "活(82",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 251,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")，(83",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 252,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")是(8",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 253,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "4)推(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 254,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "85)动",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 255,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(86)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 256,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "社(87",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 257,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")会(8",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 258,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "8)智(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 259,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "89)能",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 260,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(90)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 261,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "化(91",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 262,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")变(9",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 263,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "2)革(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 264,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "93)的",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 265,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(94)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 266,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "核(95",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 267,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": ")心(9",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 268,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "6)引(",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 269,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "97)擎",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 270,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "(98)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 271,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。(99)",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 272,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n\n    完美",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 273,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "！99个",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 274,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字符（",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 275,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "包含标点和英文",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 276,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字母）。",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 277,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "\n\n5. ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 278,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " **最终审阅**",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 279,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "：\n   ",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 280,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": " “人工智能（AI",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 281,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "）是模拟人类",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 282,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "智能的计算机技术",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 283,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "。它依托机器学习",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 284,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "与大数据，赋予",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 285,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "机器感知、学习",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 286,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、推理和决策",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 287,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的能力。目前，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 288,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "AI已广泛应用于医疗",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 289,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、交通等领域，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 290,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "正深刻",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 291,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "改变人类生活，",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 292,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "是推动社会智能化变革",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 293,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "的核心引擎。”\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 294,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "    内容涵盖了",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 295,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "：定义（模拟",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 296,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "人类智能）、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 297,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "核心技术（机器学习、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 298,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "大数据",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 299,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "）、能力（感知",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 300,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、学习、推理",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 301,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、决策）、应用",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 302,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "与意义（医疗",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 303,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "交通、改变生活",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 304,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "、",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 305,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "核心引擎）。\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 306,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "    字数：",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 307,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "刚好100",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 308,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "字",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 309,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "左右。符合“",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 310,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "简单介绍",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 311,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "”的要求。\n\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 312,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "6.  **",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 313,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "输出结果**。\n",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 314,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "delta": "",
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 315,
+  "summary_index": 0,
+  "type": "response.reasoning_summary_text.delta"
+}
+{
+  "item_id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+  "output_index": 0,
+  "sequence_number": 316,
+  "summary_index": 0,
+  "text": "思考过程：1.  **分析请求**：\n    *   主题：人工智能技术（AI）。\n    *   字数限制：100字左右（简单介绍）。\n    *   语言：中文。\n\n2.  **提取核心概念**：\n    *   什么是AI？（模拟人类智能的计算机科学分支）\n    *   核心技术/手段？（机器学习、深度学习、自然语言处理、计算机视觉等）\n    *   应用/作用？（让机器具备学习、推理、感知和决策能力，赋能各行各业）\n\n3.  **草拟文案**：\n    *   *版本1*：人工智能（AI）是计算机科学的重要分支，旨在让机器模拟人类的认知功能。它通过机器学习、深度学习和大数据等技术，赋予计算机感知、理解、学习和决策的能力。如今，AI已广泛应用于医疗、交通、金融等领域，正深刻改变着人类的生产与生活方式，是推动社会智能化发展的核心动力。（128字）- *超字数了*\n    *   *版本2*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习、深度学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入医疗、金融等千行百业，正成为推动社会生产力跃升和智能化变革的核心引擎。（113字） - *还是稍微多了一点，需要精简到100字以内或刚好100字左右。*\n    *   *版本3*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入千行百业，正成为推动社会生产力跃升与智能化变革的核心引擎。（103字，包含标点）\n    *   *版本4（严格控制在100字内）*：\n        人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通、金融等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。（105个字符，纯汉字88个。通常字数统计包含标点，大概100字左右非常合适。）\n\n4.  **精确字数统计（版本4）**：\n    人(1)工(2)智(3)能(4)（(5)A(6)I(7)）(8)是(9)模(10)拟(11)人(12)类(13)智(14)能(15)的(16)计(17)算(18)机(19)技(20)术(21)。(22)\n    它(23)依(24)托(25)机(26)器(27)学(28)习(29)与(30)大(31)数(32)据(33)，(34)赋(35)予(36)机(37)器(38)感(39)知(40)、(41)学(42)习(43)、(44)推(45)理(46)和(47)决(48)策(49)的(50)能(51)力(52)。(53)\n    目(54)前(55)，(56)A(57)I(58)已(59)广(60)泛(61)应(62)用(63)于(64)医(65)疗(66)、(67)交(68)通(69)等(70)领(71)域(72)，(73)正(74)深(75)刻(76)改(77)变(78)人(79)类(80)生(81)活(82)，(83)是(84)推(85)动(86)社(87)会(88)智(89)能(90)化(91)变(92)革(93)的(94)核(95)心(96)引(97)擎(98)。(99)\n\n    完美！99个字符（包含标点和英文字母）。\n\n5.  **最终审阅**：\n    “人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。”\n    内容涵盖了：定义（模拟人类智能）、核心技术（机器学习、大数据）、能力（感知、学习、推理、决策）、应用与意义（医疗交通、改变生活、核心引擎）。\n    字数：刚好100字左右。符合“简单介绍”的要求。\n\n6.  **输出结果**。\n",
+  "type": "response.reasoning_summary_text.done"
+}
+{
+  "item": {
+    "id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+    "summary": [
+      {
+        "text": "思考过程：1.  **分析请求**：\n    *   主题：人工智能技术（AI）。\n    *   字数限制：100字左右（简单介绍）。\n    *   语言：中文。\n\n2.  **提取核心概念**：\n    *   什么是AI？（模拟人类智能的计算机科学分支）\n    *   核心技术/手段？（机器学习、深度学习、自然语言处理、计算机视觉等）\n    *   应用/作用？（让机器具备学习、推理、感知和决策能力，赋能各行各业）\n\n3.  **草拟文案**：\n    *   *版本1*：人工智能（AI）是计算机科学的重要分支，旨在让机器模拟人类的认知功能。它通过机器学习、深度学习和大数据等技术，赋予计算机感知、理解、学习和决策的能力。如今，AI已广泛应用于医疗、交通、金融等领域，正深刻改变着人类的生产与生活方式，是推动社会智能化发展的核心动力。（128字）- *超字数了*\n    *   *版本2*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习、深度学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入医疗、金融等千行百业，正成为推动社会生产力跃升和智能化变革的核心引擎。（113字） - *还是稍微多了一点，需要精简到100字以内或刚好100字左右。*\n    *   *版本3*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入千行百业，正成为推动社会生产力跃升与智能化变革的核心引擎。（103字，包含标点）\n    *   *版本4（严格控制在100字内）*：\n        人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通、金融等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。（105个字符，纯汉字88个。通常字数统计包含标点，大概100字左右非常合适。）\n\n4.  **精确字数统计（版本4）**：\n    人(1)工(2)智(3)能(4)（(5)A(6)I(7)）(8)是(9)模(10)拟(11)人(12)类(13)智(14)能(15)的(16)计(17)算(18)机(19)技(20)术(21)。(22)\n    它(23)依(24)托(25)机(26)器(27)学(28)习(29)与(30)大(31)数(32)据(33)，(34)赋(35)予(36)机(37)器(38)感(39)知(40)、(41)学(42)习(43)、(44)推(45)理(46)和(47)决(48)策(49)的(50)能(51)力(52)。(53)\n    目(54)前(55)，(56)A(57)I(58)已(59)广(60)泛(61)应(62)用(63)于(64)医(65)疗(66)、(67)交(68)通(69)等(70)领(71)域(72)，(73)正(74)深(75)刻(76)改(77)变(78)人(79)类(80)生(81)活(82)，(83)是(84)推(85)动(86)社(87)会(88)智(89)能(90)化(91)变(92)革(93)的(94)核(95)心(96)引(97)擎(98)。(99)\n\n    完美！99个字符（包含标点和英文字母）。\n\n5.  **最终审阅**：\n    “人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。”\n    内容涵盖了：定义（模拟人类智能）、核心技术（机器学习、大数据）、能力（感知、学习、推理、决策）、应用与意义（医疗交通、改变生活、核心引擎）。\n    字数：刚好100字左右。符合“简单介绍”的要求。\n\n6.  **输出结果**。\n",
+        "type": "summary_text"
+      }
+    ],
+    "type": "reasoning",
+    "content": null,
+    "encrypted_content": null,
+    "status": null
+  },
+  "output_index": 0,
+  "sequence_number": 317,
+  "type": "response.output_item.done"
+}
+{
+  "item": {
+    "id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+    "content": [],
+    "role": "assistant",
+    "status": "in_progress",
+    "type": "message",
+    "phase": null
+  },
+  "output_index": 1,
+  "sequence_number": 318,
+  "type": "response.output_item.added"
+}
+{
+  "content_index": 0,
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "output_index": 1,
+  "part": {
+    "annotations": [],
+    "text": "",
+    "type": "output_text",
+    "logprobs": null
+  },
+  "sequence_number": 319,
+  "type": "response.content_part.added"
+}
+{
+  "content_index": 0,
+  "delta": "人工智能（",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 320,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "AI",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 321,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "）是模拟人类",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 322,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "智能的计算机技术",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 323,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "。它依托机器学习",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 324,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "与大数据，赋予",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 325,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "机器感知、学习",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 326,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "、推理和决策",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 327,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "的能力。目前，",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 328,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "AI已广泛应用于医疗",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 329,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "、交通等领域，",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 330,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "正深刻改变人类",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 331,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "生活，是推动社会",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 332,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "智能化变革的核心引擎",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 333,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "。",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 334,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "delta": "",
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 335,
+  "type": "response.output_text.delta"
+}
+{
+  "content_index": 0,
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "logprobs": [],
+  "output_index": 1,
+  "sequence_number": 336,
+  "text": "人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。",
+  "type": "response.output_text.done"
+}
+{
+  "content_index": 0,
+  "item_id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+  "output_index": 1,
+  "part": {
+    "annotations": [],
+    "text": "人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。",
+    "type": "output_text",
+    "logprobs": null
+  },
+  "sequence_number": 337,
+  "type": "response.content_part.done"
+}
+{
+  "item": {
+    "id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+    "content": [
+      {
+        "annotations": [],
+        "text": "人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。",
+        "type": "output_text",
+        "logprobs": null
+      }
+    ],
+    "role": "assistant",
+    "status": "completed",
+    "type": "message",
+    "phase": null
+  },
+  "output_index": 1,
+  "sequence_number": 338,
+  "type": "response.output_item.done"
+}
+{
+  "response": {
+    "id": "resp_0a703e55-fa88-9f5a-b180-6b9e7f2f670d",
+    "created_at": 1782539382.0,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "metadata": {},
+    "model": "qwen3.7-plus",
+    "object": "response",
+    "output": [
+      {
+        "id": "msg_3523062d-ceec-4f35-b4c4-01f70b0bc3a0",
+        "summary": [
+          {
+            "text": "思考过程：1.  **分析请求**：\n    *   主题：人工智能技术（AI）。\n    *   字数限制：100字左右（简单介绍）。\n    *   语言：中文。\n\n2.  **提取核心概念**：\n    *   什么是AI？（模拟人类智能的计算机科学分支）\n    *   核心技术/手段？（机器学习、深度学习、自然语言处理、计算机视觉等）\n    *   应用/作用？（让机器具备学习、推理、感知和决策能力，赋能各行各业）\n\n3.  **草拟文案**：\n    *   *版本1*：人工智能（AI）是计算机科学的重要分支，旨在让机器模拟人类的认知功能。它通过机器学习、深度学习和大数据等技术，赋予计算机感知、理解、学习和决策的能力。如今，AI已广泛应用于医疗、交通、金融等领域，正深刻改变着人类的生产与生活方式，是推动社会智能化发展的核心动力。（128字）- *超字数了*\n    *   *版本2*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习、深度学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入医疗、金融等千行百业，正成为推动社会生产力跃升和智能化变革的核心引擎。（113字） - *还是稍微多了一点，需要精简到100字以内或刚好100字左右。*\n    *   *版本3*：人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习和大数据，赋予机器感知、理解、学习与决策的能力。从语音助手到自动驾驶，AI已深度融入千行百业，正成为推动社会生产力跃升与智能化变革的核心引擎。（103字，包含标点）\n    *   *版本4（严格控制在100字内）*：\n        人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通、金融等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。（105个字符，纯汉字88个。通常字数统计包含标点，大概100字左右非常合适。）\n\n4.  **精确字数统计（版本4）**：\n    人(1)工(2)智(3)能(4)（(5)A(6)I(7)）(8)是(9)模(10)拟(11)人(12)类(13)智(14)能(15)的(16)计(17)算(18)机(19)技(20)术(21)。(22)\n    它(23)依(24)托(25)机(26)器(27)学(28)习(29)与(30)大(31)数(32)据(33)，(34)赋(35)予(36)机(37)器(38)感(39)知(40)、(41)学(42)习(43)、(44)推(45)理(46)和(47)决(48)策(49)的(50)能(51)力(52)。(53)\n    目(54)前(55)，(56)A(57)I(58)已(59)广(60)泛(61)应(62)用(63)于(64)医(65)疗(66)、(67)交(68)通(69)等(70)领(71)域(72)，(73)正(74)深(75)刻(76)改(77)变(78)人(79)类(80)生(81)活(82)，(83)是(84)推(85)动(86)社(87)会(88)智(89)能(90)化(91)变(92)革(93)的(94)核(95)心(96)引(97)擎(98)。(99)\n\n    完美！99个字符（包含标点和英文字母）。\n\n5.  **最终审阅**：\n    “人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。”\n    内容涵盖了：定义（模拟人类智能）、核心技术（机器学习、大数据）、能力（感知、学习、推理、决策）、应用与意义（医疗交通、改变生活、核心引擎）。\n    字数：刚好100字左右。符合“简单介绍”的要求。\n\n6.  **输出结果**。\n",
+            "type": "summary_text"
+          }
+        ],
+        "type": "reasoning",
+        "content": null,
+        "encrypted_content": null,
+        "status": null
+      },
+      {
+        "id": "msg_cd2d08f8-f8b1-4ad2-bd12-dacf545e97ba",
+        "content": [
+          {
+            "annotations": [],
+            "text": "人工智能（AI）是模拟人类智能的计算机技术。它依托机器学习与大数据，赋予机器感知、学习、推理和决策的能力。目前，AI已广泛应用于医疗、交通等领域，正深刻改变人类生活，是推动社会智能化变革的核心引擎。",
+            "type": "output_text",
+            "logprobs": null
+          }
+        ],
+        "role": "assistant",
+        "status": "completed",
+        "type": "message",
+        "phase": null
+      }
+    ],
+    "parallel_tool_calls": true,
+    "temperature": 1.0,
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "background": false,
+    "completed_at": 1782539407.0,
+    "conversation": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "moderation": null,
+    "previous_response_id": null,
+    "prompt": null,
+    "prompt_cache_key": null,
+    "prompt_cache_retention": null,
+    "reasoning": null,
+    "safety_identifier": null,
+    "service_tier": "default",
+    "status": "completed",
+    "text": null,
+    "top_logprobs": 0,
+    "truncation": null,
+    "usage": {
+      "input_tokens": 55,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1192,
+      "output_tokens_details": {
+        "reasoning_tokens": 1135
+      },
+      "total_tokens": 1247,
+      "x_details": [
+        {
+          "input_tokens": 55,
+          "output_tokens": 1192,
+          "total_tokens": 1247,
+          "output_tokens_details": {
+            "reasoning_tokens": 1135
+          },
+          "prompt_tokens_details": {
+            "cached_tokens": 0
+          },
+          "x_billing_type": "response_api"
+        }
+      ]
+    },
+    "user": null,
+    "frequency_penalty": 0.0,
+    "presence_penalty": 0.0,
+    "store": true,
+    "billing": null
+  },
+  "sequence_number": 339,
+  "type": "response.completed"
+}
