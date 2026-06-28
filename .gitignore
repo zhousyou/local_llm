@@ -31,3 +31,5 @@ lerna-debug.log*
 
 # Trae documents (optional, keep private)
 .trae/
+
+.env
